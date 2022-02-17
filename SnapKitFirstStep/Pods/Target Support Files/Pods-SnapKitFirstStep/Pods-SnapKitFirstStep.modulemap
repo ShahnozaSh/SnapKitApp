@@ -1,0 +1,6 @@
+framework module Pods_SnapKitFirstStep {
+  umbrella header "Pods-SnapKitFirstStep-umbrella.h"
+
+  export *
+  module * { export * }
+}
